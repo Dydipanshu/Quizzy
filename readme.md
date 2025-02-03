@@ -20,7 +20,7 @@ An interactive quiz app built with HTML, CSS, and JavaScript. Users can answer m
 ## 📦 Installation & Usage  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/quizzy.git
+   git clone https://github.com/dydipashu/quizzy.git
    cd quizzy
    ```
 2. Open `index.html` in a browser.  
