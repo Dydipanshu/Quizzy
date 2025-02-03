@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Interactive Quiz</title>
+</head>
+<body>
+  <main class="quiz-container"> 
+    <section class="score" aria-live="polite"> 
+      <p>Score: <span id="score">0</span>/<span id="total">3</span></p>
+    </section>
+
+    <article id="question" class="questions-container" role="alert">
+    </article>
+    <div id="options" class="options-container" role="group"></div>
+    <button type="button" id="restart" class="restart-btn" aria-label="Restart Quiz">
+      Restart Quiz
+    </button>
+  </main>
+  <script src="app.js" type="module"></script>
+</body>
+</html>

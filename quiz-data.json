@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What does CSS stand for?",
+    "options": [
+      "Computer Style Sheets",
+      "Creative Style System",
+      "Cascading Style Sheets"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which HTML tag is used for JavaScript?",
+    "options": [
+      "<js>",
+      "<script>",
+      "<javascript>"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the latest ECMAScript version?",
+    "options": [
+      "ES2023",
+      "ES6",
+      "ES2020"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is NOT a JavaScript framework?",
+    "options": [
+      "React",
+      "Django",
+      "Angular"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the purpose of the 'alt' attribute in an image tag?",
+    "options": [
+      "To add a tooltip",
+      "To provide alternative text for screen readers",
+      "To specify the image source"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which CSS property is used to control the spacing between elements?",
+    "options": [
+      "padding",
+      "spacing",
+      "margin"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the virtual DOM in React?",
+    "options": [
+      "A JavaScript library",
+      "A lightweight copy of the real DOM",
+      "A browser feature"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a CSS preprocessor?",
+    "options": [
+      "Babel",
+      "TypeScript",
+      "Sass"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What does 'JSX' stand for in React?",
+    "options": [
+      "JavaScript Syntax",
+      "JavaScript XML",
+      "JavaScript Extension"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is used to manage state in React?",
+    "options": [
+      "useContext",
+      "useEffect",
+      "useState"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the purpose of the 'key' prop in React?",
+    "options": [
+      "To encrypt data",
+      "To define a CSS class",
+      "To uniquely identify elements in a list"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is NOT a CSS framework?",
+    "options": [
+      "Tailwind CSS",
+      "jQuery",
+      "Bootstrap"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the primary purpose of Webpack?",
+    "options": [
+      "To create APIs",
+      "To bundle JavaScript files",
+      "To style web pages"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a state management library for React?",
+    "options": [
+      "Lodash",
+      "Axios",
+      "Redux"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What does 'SEO' stand for in web development?",
+    "options": [
+      "Style Engine Override",
+      "Search Engine Optimization",
+      "Secure Engine Operation"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which HTML5 tag is used to define a navigation menu?",
+    "options": [
+      "<menu>",
+      "<header>",
+      "<nav>"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the purpose of the 'z-index' property in CSS?",
+    "options": [
+      "To define the width of an element",
+      "To set the font size",
+      "To control the stacking order of elements"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is a JavaScript runtime environment?",
+    "options": [
+      "Django",
+      "Ruby on Rails",
+      "Node.js"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the purpose of the 'async' keyword in JavaScript?",
+    "options": [
+      "To declare a variable",
+      "To create a loop",
+      "To define an asynchronous function"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is a popular frontend testing library?",
+    "options": [
+      "Chai",
+      "Mocha",
+      "Jest"
+    ],
+    "correct": 2
+  }
+]
