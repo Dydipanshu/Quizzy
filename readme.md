@@ -32,7 +32,7 @@ An interactive quiz app built with HTML, CSS, and JavaScript. Users can answer m
 - Tracks and displays the final score at the end.  
 
 ## Live website 
-![Live Website](https://quizzy-rouge.vercel.app/)   
+[Live Website](https://quizzy-rouge.vercel.app/)   
 
 ## 📝 License  
 This project is open-source and available under the MIT License.  
