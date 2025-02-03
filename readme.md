@@ -31,8 +31,8 @@ An interactive quiz app built with HTML, CSS, and JavaScript. Users can answer m
 - Provides immediate feedback by highlighting correct/incorrect answers.  
 - Tracks and displays the final score at the end.  
 
-## 🎨 UI Preview  
-![Quizzy Screenshot](screenshot.png) *(Add a screenshot here if available)*  
+## Live website 
+![Live Website](https://quizzy-rouge.vercel.app/)   
 
 ## 📝 License  
 This project is open-source and available under the MIT License.  
